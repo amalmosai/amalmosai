@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amal Moussa</h1> 
-<h3>Backend Developer using Node.js<h3/>
-<p>I'm a junior Node.js developer with a passion for web development. I love building applications using Node.js and I'm eager to learn and grow in this exciting field. Let's collaborate and create something awesome together! 🚀🌐 </p>
+<h3>Backend Software Engineer using Node.js<h3/>
+<p>Specializing in Node.js, Express.js, JavaScript, and TypeScript to build high-performance, secure, and maintainable backend solutions .Experienced in database design, management, and optimization using MySQL, PostgreSQL, and MongoDB.Let's collaborate and create something awesome together! 🚀🌐 </p>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amal-moussa-7b2aa7210/).
