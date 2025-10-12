@@ -10,6 +10,5 @@
 
 # 📊 GitHub Stats:
 <!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amalmosai&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amalmosai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Long Streak](https://streak-stats.demolab.com/?user=amalmosai&theme=dark&hide_border=false&date_format=[Y-]n-j&mode=daily)![](https://github-readme-stats.vercel.app/api/top-langs/?username=amalmosai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
