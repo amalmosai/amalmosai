@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amal Moussa</h1> 
 <h3>Backend Software Engineer using Node.js<h3/>
-<p>Specializing in Node.js, Express.js, Nest.js JavaScript, and TypeScript to build high-performance, secure, and maintainable backend solutions .Experienced in database design, management, and optimization using MySQL, PostgreSQL, and MongoDB.Let's collaborate and create something awesome together! </p>
+<p>Specializing in Node.js, Express.js, Nest.js, JavaScript, and TypeScript to build high-performance, secure, and maintainable backend solutions .Experienced in database design, management, and optimization using MySQL, PostgreSQL, and MongoDB.Let's collaborate and create something awesome together! </p>
 
 ##  Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amalmosai/).
